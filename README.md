@@ -59,6 +59,8 @@
 
 Pizza hunt is a pizza creation app mixed with a social platform. Users can create their pizza and share it with others on the platform. Once a user shares their creation other users can interact and share their thoughts about it. This application uses express.js to create a server as well as mongoose and Mongo DB for backend data management.   
 
+### [Live Application](https://limitless-harbor-63842.herokuapp.com/)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
